@@ -35,5 +35,4 @@ public class WeblogicMavenUI extends UI {
         otherLabel.addStyleName(ValoTheme.LABEL_SUCCESS);
         layout.addComponent(otherLabel);
     }
-
 }
