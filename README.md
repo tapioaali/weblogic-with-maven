@@ -1,3 +1,3 @@
 # A Minimal Maven-based Vaadin Example Application for Weblogic #
 
-For full instructions, check out [Running Vaadin on Weblogic with Maven](https://vaadin.com/wiki?p_p_id=36&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=row-1&p_p_col_pos=2&p_p_col_count=4&_36_struts_action=%2Fwiki%2Fview&_36_redirect=https%3A%2F%2Fvaadin.com%2Fwiki%3Fp_p_id%3D36%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Drow-1%26p_p_col_pos%3D2%26p_p_col_count%3D4%26p_r_p_185834411_title%3DCoding%26p_r_p_185834411_nodeName%3Dvaadin.com%2Bwiki%26_36_struts_action%3D%252Fwiki%252Fview_recent_changes&p_r_p_185834411_nodeName=vaadin.com+wiki&p_r_p_185834411_title=Running+Vaadin+on+Weblogic+with+Maven) @ [vaadin.com/wiki](https://vaadin.com/wiki).
+For full instructions, check out [Running Vaadin on Weblogic with Maven](https://vaadin.com/wiki?p_p_id=36&p_r_p_185834411_title=Running+Vaadin+on+Weblogic+with+Maven) @ [vaadin.com/wiki](https://vaadin.com/wiki).
